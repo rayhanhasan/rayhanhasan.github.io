@@ -1,0 +1,45 @@
+body {
+	background-color:#5d5c5c;
+	color:black;
+	font-family:Arial,sans-serif;
+	margin:0 4px 0 0;
+	border: 12px solid;
+	margin: auto;
+	width: auto;
+	text-align: center;
+}
+
+h1 { color: white;
+background: #00bcd4; 
+border: 1px solid white 
+padding: 0 0 0 0;
+font-weight: bold;
+text-align: center;
+}
+/* begin: seaside-theme */
+
+h2 { color: white;
+background: #00bcd4; 
+border: 1px solid white 
+padding: 0 0 0 0;
+font-weight: bold;
+text-align: center;
+}
+/* begin: seaside-theme */
+
+h3 { color: white;
+background: #5d5c5c; 
+border: 1px solid white 
+padding: 0 0 0 0;
+font-weight: bold;
+text-align: center;
+}
+/* begin: seaside-theme */
+
+h4 { color: #00bcd4;
+background: #5d5c5c; 
+border: 1px solid white 
+padding: 0 0 0 0;
+font-weight: bold;
+text-align: center;
+}

@@ -1,0 +1,5 @@
+Le fichier adiandramisa.html tu met à infinite-digital.fr/rayhan/adiandramisa
+Le fichier dino.html tu met à infinite-digital.fr/rayhan/adiandramisa/dino
+Le fichier Style-2.css tu peux le supprimer, mais tu peux le utiliser.
+C'est un Css hyper bien! Si elle ne marche pas tu peux aller à ce lien https://codepen.io/joyanna/pen/NWGYLNW
+Allez juste publie ces html.
