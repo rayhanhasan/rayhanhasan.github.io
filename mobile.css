@@ -1,0 +1,13 @@
+@media screen and (max-width: 824px)
+{
+	.rhm
+	{
+		text-align: center;
+	}
+	.auteurrhm
+	{
+		text-align: left;
+		justify-content: flex-start;
+		margin-left: 10px;
+	}
+}
