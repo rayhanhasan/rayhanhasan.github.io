@@ -1,0 +1,19 @@
+h1 { color: black;
+background: blue; 
+border: 1px solid bla 
+padding: 0 0 0 0;
+font-weight: bold;
+text-align: center;
+}
+/* begin: seaside-theme */
+
+body {
+	background-color:white;
+	color:black;
+	font-family:Arial,sans-serif;
+	margin:0 4px 0 0;
+	border: 12px solid;
+	margin: auto;
+	width: auto;
+	text-align: center;
+}
